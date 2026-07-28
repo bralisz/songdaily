@@ -1,29 +1,40 @@
 <p align="center">
-<img src="./assets/banner.png" width="100%">
+  <img src="./assets/banner.png" alt="Daily Music" width="100%">
 </p>
 
 # 🎵 Daily Music
 
-> **Uma pequena descoberta musical, carimbada todo dia.**
-
-## 📖 Sobre o projeto
-
-O **Daily Music** é uma experiência criada para apresentar uma nova música a cada dia. Inspirado na estética de cartas, selos e correspondências antigas, o site entrega diariamente uma recomendação musical, incentivando o usuário a descobrir novos artistas, estilos e canções de forma simples e agradável.
-
-A proposta é transformar a descoberta musical em um pequeno ritual diário.
-
-## 🎧 Como funciona
-
-Ao acessar o site, o usuário recebe uma recomendação musical do dia. Cada postagem apresenta uma nova faixa para ouvir, tornando cada visita uma oportunidade de conhecer algo diferente e expandir o repertório musical.
+> **A daily musical insight, delivered like a letter.**
 
 ---
 
-## 💼 Me contrate
+## 📖 About the Project
+
+**Daily Music** is a web experience dedicated to uncovering the stories behind music. Inspired by the timeless aesthetics of vintage correspondence, postcards, and postage stamps, the platform presents a new musical fact each day—offering readers a brief yet engaging glimpse into the rich history of artists, albums, songs, and defining moments in the music industry.
+
+Rather than recommending what to listen to, Daily Music seeks to deepen the listener's appreciation by revealing the narratives, anecdotes, and cultural context that shape the music we know today.
+
+---
+
+## 🎧 How It Works
+
+Each day, the website publishes a fresh musical curiosity. Every post highlights a unique piece of trivia, ranging from behind-the-scenes stories and unexpected inspirations to historical milestones, record-breaking achievements, and lesser-known facts about iconic musicians and recordings.
+
+Designed to be consumed in just a few minutes, Daily Music turns learning about music into a simple daily ritual—encouraging visitors to return regularly for a new story from the world of sound.
+
+---
+
+## 💼 Hire Me
 
 <p align="center">
-<img src="./assets/meu-banner.png" width="100%">
+  <img src="./assets/meu-banner.png" alt="Miguel Rodrigues" width="100%">
 </p>
 
-Se você gostou deste projeto e procura alguém para desenvolver aplicações web, criar projetos digitais ou transformar ideias em produtos, ficarei feliz em conversar.
+If you enjoyed this project and are looking for someone to build modern web applications, design engaging digital experiences, or bring creative ideas to life, I'd be delighted to work with you.
 
-🌐 **Portfólio:** https://bralis.site/
+🌐 **Portfolio:**  
+**https://bralis.site/**
+
+<p align="center">
+Thank you for visiting the project. See you in the next story. 🎶
+</p>
