@@ -1,0 +1,15 @@
+{
+  "name": "dailysong",
+  "version": "1.0.0",
+  "description": "Daily Music - uma pequena descoberta musical, carimbada todo dia",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build needed'"
+  },
+  "keywords": ["music", "daily"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/speed-insights": "^1.1.0"
+  }
+}
